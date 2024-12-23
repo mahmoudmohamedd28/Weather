@@ -1,0 +1,35 @@
+.navimg{
+    width: 100px;
+}
+.navbg{
+    background-color: #1E202B;
+}
+main{
+    background-color: #1E202B;
+    background-image: url(../Weather/banner.png) ;
+    background-repeat: no-repeat;
+}
+.findbtn{
+    right: 170px;
+    top: 7px;
+    border: none;
+    border-radius: 30px;
+
+}
+.input{
+    background-color: #1E202B;
+    border: none;
+    border-radius: 30px;
+    color: white;
+}
+.card{
+    color: white;
+}
+.cardsbg{
+    background-color: #323544  ;
+    height: 120%;
+}
+.midcard{
+    background-color: #262936;
+    height: 120%;
+}   
